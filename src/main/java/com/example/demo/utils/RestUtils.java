@@ -7,4 +7,15 @@ public class RestUtils {
 		System.out.println("jjjjjjjjjjjjj");
 	}
 
+public static void get() {
+		System.out.println("jjjjjjjjjjjjj");
+	}
+
+public static void get() {
+		System.out.println("jjjjjjjjjjjjj");
+	}
+public static void get() {
+		System.out.println("jjjjjjjjjjjjj");
+	}
+
 }
