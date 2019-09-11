@@ -11,6 +11,7 @@ public class RestUtils {
 		System.out.println("jjjjjjjjjjjjj");System.out.println("jjjjjjjjjjjjj");
 		
 		
+<<<<<<< HEAD
 
 		System.out.println("11111111111111111111111");
 
@@ -32,7 +33,25 @@ public class RestUtils {
 		System.out.println("11111111111111111111111");
 
 
+=======
+
+
+	}
+	
+	public static void get(String str) {
+
+		System.out.println("dsgdkj");
+		System.out.println("dsafdfgfhg");System.out.println("jjjjjjjjjjjjj");System.out.println("jjjjjjjjjjjjj");
+		System.out.println("jjjjjjjjjjjjj");
+		System.out.println("jjjjjjjjjjjjj");System.out.println("jjjjjjjjjjjjj");
+>>>>>>> branch 'master' of https://github.com/YT24/Config-Server.git
 		
+<<<<<<< HEAD
 		System.out.println("jjjjjjjjjjjjj");System.out.println("jjjjjjqwetrytruyjjjjjjj");
+=======
+		
+
+
+>>>>>>> branch 'master' of https://github.com/YT24/Config-Server.git
 	}
 }
