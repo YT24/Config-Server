@@ -11,7 +11,12 @@ public class RestUtils {
 		System.out.println("jjjjjjjjjjjjj");System.out.println("jjjjjjjjjjjjj");
 		
 		
+<<<<<<< HEAD
 		System.out.println("11111111111111111111111");
 
+=======
+		
+		System.out.println("jjjjjjjjjjjjj");System.out.println("jjjjjjqwetrytruyjjjjjjj");
+>>>>>>> branch 'master' of https://github.com/YT24/Config-Server.git
 	}
 }
