@@ -18,9 +18,7 @@ public class CommonUtils {
 	
 	public static boolean checkParamAvailable(String param) {
 		
-		if (StringUtils.isBlank(param)) {
-			return false;
-		}
+
 		return true;
 	}
 	
