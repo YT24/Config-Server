@@ -11,6 +11,9 @@ public class EurekaConfigApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaConfigApplication.class, args);
 	}
+	public static void main2(String[] args) {
+		SpringApplication.run(EurekaConfigApplication.class, args);
+	}
 
 
 	public static void say(){
