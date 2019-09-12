@@ -12,4 +12,8 @@ public class EurekaConfigApplication {
 		SpringApplication.run(EurekaConfigApplication.class, args);
 	}
 
+
+	public static void say(){
+		System.out.println("nihao");
+	}
 }
