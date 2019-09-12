@@ -13,7 +13,10 @@ public class EurekaConfigApplication {
 	}
 	public static void main2(String[] args) {
 		SpringApplication.run(EurekaConfigApplication.class, args);
-		System.out.println("111111111111hahahahahahahhahah");
+
+
+		System.out.println("1111111111112222222222222222222222222222222222222222111111111111hahahahahahahhahah");
+
 	}
 
 
